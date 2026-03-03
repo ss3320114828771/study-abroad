@@ -51,7 +51,7 @@ export default function OrderPage() {
             name: 'IELTS Preparation Course',
             price: 299,
             originalPrice: 399,
-            image: '/images/n1.jpeg',
+            image: '/n1.jpeg',
             category: 'Courses',
             description: 'Comprehensive IELTS preparation course with practice tests and expert guidance.',
             inStock: true
@@ -60,7 +60,7 @@ export default function OrderPage() {
             id: '2',
             name: 'University Application Guide',
             price: 49,
-            image: '/images/n2.jpeg',
+            image: '/n2.jpeg',
             category: 'Books',
             description: 'Step-by-step guide to applying for universities abroad.',
             inStock: true
@@ -70,7 +70,7 @@ export default function OrderPage() {
             name: 'Visa Consultation Package',
             price: 599,
             originalPrice: 799,
-            image: '/images/n3.jpeg',
+            image: '/n3.jpeg',
             category: 'Services',
             description: 'Complete visa consultation and application assistance.',
             inStock: true
@@ -98,7 +98,7 @@ export default function OrderPage() {
             name: 'Study Abroad Starter Kit',
             price: 149,
             originalPrice: 199,
-            image: '/images/n6.jpeg',
+            image: '/n6.jpeg',
             category: 'Kits',
             description: 'Complete starter kit with guides, checklists, and resources.',
             inStock: true
