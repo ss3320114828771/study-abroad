@@ -43,7 +43,7 @@ export default function AdminProductsPage() {
             price: 299,
             stock: 999,
             status: 'active',
-            image: '/images/n1.jpeg',
+            image: '/n1.jpeg',
             sales: 234,
             revenue: 69966,
             rating: 4.8
@@ -69,7 +69,7 @@ export default function AdminProductsPage() {
             price: 599,
             stock: 50,
             status: 'active',
-            image: '/images/n3.jpeg',
+            image: '/n3.jpeg',
             sales: 156,
             revenue: 93444,
             rating: 4.9
@@ -95,7 +95,7 @@ export default function AdminProductsPage() {
             price: 199,
             stock: 999,
             status: 'active',
-            image: '/images/n5.jpeg',
+            image: '/n5.jpeg',
             sales: 187,
             revenue: 37213,
             rating: 4.9
@@ -108,7 +108,7 @@ export default function AdminProductsPage() {
             price: 149,
             stock: 300,
             status: 'active',
-            image: '/images/n6.jpeg',
+            image: '/n6.jpeg',
             sales: 98,
             revenue: 14602,
             rating: 4.8
